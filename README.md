@@ -10,8 +10,6 @@ Bienvenue ! 👋 Ce dépôt contient mes configurations Klipper personnelles, op
 
 ### 🔥 Ender 3 V3 SE
 
-*(Pensez à ajouter une belle photo de votre imprimante et à mettre le lien ici !)*
-
 Cette configuration est taillée sur mesure pour la Ender 3 V3 SE et ses spécificités. C'est la plus récente de l'atelier, rapide et performante.
 
 | Composant | Spécification |
@@ -26,8 +24,6 @@ Cette configuration est taillée sur mesure pour la Ender 3 V3 SE et ses spécif
 ---
 
 ### 🔧 Ender 3 V2
-
-*(Pensez à ajouter une belle photo de votre imprimante et à mettre le lien ici !)*
 
 Configuration pour ma fidèle Ender 3 V2, modifiée et améliorée au fil du temps. Une machine fiable qui a fait ses preuves.
 
